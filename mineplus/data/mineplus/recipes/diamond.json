@@ -1,0 +1,17 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "ppp",
+        "ccc",
+        "lcl"
+    ],
+    "key":{
+        "p":{"item":"minecraft:piston"},
+        "c":{"item":"minecraft:coal_block"},
+        "l":{"item":"minecraft:lava_bucket"}
+    },
+    "result":{
+        "count":4,
+        "item":"minecraft:diamond"
+    }
+}
