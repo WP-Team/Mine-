@@ -8,9 +8,10 @@
     "key":{
         "p":{"item":"minecraft:phantom_membrane"},
         "s":{"item":"minecraft:slime_ball"},
-        "f":{"item":"minecraft:fireworks"}
+        "f":{"item":"minecraft:firework_rocket"}
     },
     "result":{
+        "count":1,
         "item":"minecraft:elytra"
     }
 }
