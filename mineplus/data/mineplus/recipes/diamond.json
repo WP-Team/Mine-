@@ -3,12 +3,12 @@
     "pattern":[
         "ppp",
         "ccc",
-        "lcl"
+        "mcm"
     ],
     "key":{
         "p":{"item":"minecraft:piston"},
         "c":{"item":"minecraft:coal_block"},
-        "l":{"item":"minecraft:lava_bucket"}
+        "m":{"item":"minecraft:magma_block"}
     },
     "result":{
         "count":4,
