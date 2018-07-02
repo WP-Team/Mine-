@@ -1,0 +1,18 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        " g ",
+        "geg",
+        "bcb"
+    ],
+    "key":{
+        "g":{"item":"minecraft:bone"},
+        "e":{"item":"minecraft:egg"},
+        "b":{"item":"minecraft:blaze_rod"},
+        "c":{"item":"minecraft:end_crystal"}
+    },
+    "result":{
+        "count":1,
+        "item":"minecraft:skeleton_spawn_egg"
+    }
+}
