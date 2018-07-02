@@ -1,0 +1,16 @@
+{
+    "type":"crafting_shaped",
+    "pattern": [
+        "scs",
+        "csc",
+        "scs"
+    ],
+    "key": {
+        "s":{"item":"minecraft:stone"},
+        "c":{"item":"minecraft:cobblestone"}
+    },
+    "result":{
+        "count":5,
+        "item":"minecraft:gravel"
+    }
+}

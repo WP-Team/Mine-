@@ -1,0 +1,5 @@
+{
+    "type":"smelting",
+    "ingredient":{"item":"minecraft:gravel"},
+    "result":"minecraft:sand"
+}
