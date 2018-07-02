@@ -1,0 +1,17 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "bob",
+        "oco",
+        "bob"
+    ],
+    "key":{
+        "b":{"item":"minecraft:iron_bars"},
+        "o":{"item":"minecraft:obsidian"},
+        "c":{"item":"minecraft:end_crystal"}
+    },
+    "result":{
+        "count":1,
+        "item":"minecraft:spawner"
+    }
+}
