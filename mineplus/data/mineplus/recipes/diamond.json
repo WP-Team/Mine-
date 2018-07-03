@@ -1,0 +1,17 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "ppp",
+        "ccc",
+        "mcm"
+    ],
+    "key":{
+        "p":{"item":"minecraft:piston"},
+        "c":{"item":"minecraft:coal_block"},
+        "m":{"item":"minecraft:magma_block"}
+    },
+    "result":{
+        "count":4,
+        "item":"minecraft:diamond"
+    }
+}
